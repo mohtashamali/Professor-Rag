@@ -1,0 +1,23 @@
+streamlit==1.28.0
+langchain==0.1.0
+langchain-community==0.0.10
+chromadb==0.4.22
+sentence-transformers==2.2.2
+PyPDF2==3.0.1
+groq==0.4.1
+python-dotenv==1.0.0
+tiktoken==0.5.2
+
+# Web Search & MCP
+requests==2.31.0
+beautifulsoup4==4.12.2
+duckduckgo-search==4.1.1
+mcp==0.9.0
+
+# Guardrails
+presidio-analyzer==2.2.351
+presidio-anonymizer==2.2.351
+textblob==0.17.1
+
+# Feedback & Storage
+sqlite3  # Built-in with Python
