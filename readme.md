@@ -120,7 +120,7 @@ python setup_knowledge_base.py
 
 8. **Run the application**
 ```bash
-streamlit run app_enhanced.py
+python -m streamlit run app_enhanced.py
 ```
 
 ## 💡 How It Works
